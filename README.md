@@ -53,6 +53,6 @@ To complete the assignment:
   - Second script should be called "dir_info.sh"
     - Write a script that will give you a report about a given directory.  See tutorial page for suggestions.
     
-**Files not in the repository subfolder Lab04, will not be graded."
+**Files not in the repository subfolder Lab04, will not be graded.**
 
 
